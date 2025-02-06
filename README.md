@@ -1,5 +1,6 @@
 # ShulaTech_Solutions_To-Do_List_App_Kumar
 A feature-rich and stylish To-Do List App built with HTML, CSS, and JavaScript. 🚀 Manage your tasks effortlessly 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -197,3 +198,4 @@ A feature-rich and stylish To-Do List App built with HTML, CSS, and JavaScript. 
 </body>
 
 </html>
+
